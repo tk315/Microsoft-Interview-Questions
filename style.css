@@ -32,4 +32,6 @@ li{
     padding-left:5px;
     padding-right:5px;
     font-size: smaller;
+    width:40px;
+    text-align: center;
 }
