@@ -1,0 +1,25 @@
+*{
+    background-color: chartreuse;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+} 
+li{
+    color:black;
+}
+.note{
+    background-color: cornsilk;
+}
+.btn{
+    background-color: green;
+    color:#fff;
+    cursor: pointer; 
+    border: none;
+    display: inline-block;
+    padding-left:5px;
+    padding-right: 5px;
+    margin-left: 3px;
+    font-size: smaller;
+}
